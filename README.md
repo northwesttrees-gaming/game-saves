@@ -3,4 +3,4 @@ Hello, I am a YouTuber who makes videos, been trying to get established for some
 
 > [!NOTE]
 > You can find all my game saves in this folder here:
-> - [Games/Save](https://github.com/northwesttrees-gaming/game-saves/tree/main/Games/Saves)
+> - [Games/Saves](https://github.com/northwesttrees-gaming/game-saves/tree/main/Games/Saves)
